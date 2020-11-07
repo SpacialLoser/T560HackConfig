@@ -2159,6 +2159,8 @@
 	<dict>
 		<key>Automatic</key>
 		<true/>
+		<key>CustomMemory</key>
+		<false/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
@@ -2216,8 +2218,6 @@
 			<data>N+EP/AAAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
 			<data>P/8f/wAAAAA=</data>
-			<key>MemoryFormFactor</key>
-			<integer>13</integer>
 			<key>PlatformFeature</key>
 			<integer>26</integer>
 			<key>ProcessorType</key>
@@ -2319,6 +2319,8 @@
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
+			<false/>
+			<key>ForceResolution</key>
 			<false/>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
